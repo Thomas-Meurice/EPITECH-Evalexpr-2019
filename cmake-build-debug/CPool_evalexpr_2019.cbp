@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPool_evalexpr_2019"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPool_evalexpr_2019">
+				<Option output="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/CPool_evalexpr_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPool_evalexpr_2019"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPool_evalexpr_2019/fast">
+				<Option output="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/CPool_evalexpr_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPool_evalexpr_2019/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/include/my.h">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/include/nb_list.h">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/include/ope_list.h">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_compute_power_rec.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_compute_square_root.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_find_prime_sup.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_getnbr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_is_prime.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_isneg.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_put_nbr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_putchar.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_putstr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_revstr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_show_word_array.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_showmem.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_showstr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_sort_int_array.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_str_isalpha.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_str_islower.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_str_isnum.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_str_isprintable.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_str_isupper.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strcapitalize.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strcat.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strcmp.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strcpy.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strdup.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strlen.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strlowcase.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strncat.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strncmp.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strncpy.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strstr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_strupcase.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/my_swap.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/remove_node.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/lib/my/remove_node2.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/src/calcul.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/src/eval_expr.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/src/main.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/src/operator.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/src/parentheses.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/src/priority.c">
+			<Option target="CPool_evalexpr_2019"/>
+		</Unit>
+		<Unit filename="/home/jupi/Project/CPoolpart2/CPool_evalexpr_2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
